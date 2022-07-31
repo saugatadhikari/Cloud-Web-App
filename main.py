@@ -1,6 +1,5 @@
 import os
 import json
-from datetime import datetime
 
 from flask import Flask, render_template, request
 import boto3
